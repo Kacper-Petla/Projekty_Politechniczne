@@ -1,0 +1,3 @@
+﻿  FileManager.cpp
+C:\Users\stefa\Desktop\Struktury Baz Danych\projekty\pro2\Zadanie2\Zadanie2\FileManager.cpp(195,29): warning C4267: "inicjowanie": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+  Zadanie2.vcxproj -> C:\Users\stefa\Desktop\Struktury Baz Danych\projekty\pro2\Zadanie2\x64\Debug\Zadanie2.exe

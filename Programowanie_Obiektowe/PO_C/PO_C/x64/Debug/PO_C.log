@@ -1,0 +1,22 @@
+﻿  Antylopa.cpp
+  Barszcz_Sosnowskiego.cpp
+  Czlowiek.cpp
+  Guarana.cpp
+  Konsola.cpp
+  Lis.cpp
+  Main.cpp
+C:\Users\stefa\Desktop\polibuda\sem1,2\PO\PO_C\PO_C\Main.cpp(5,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Mlecz.cpp
+  Organizm.cpp
+  Owca.cpp
+  Roslina.cpp
+  Stale.h
+  Swiat.cpp
+C:\Users\stefa\Desktop\polibuda\sem1,2\PO\PO_C\PO_C\Swiat.cpp(240,29): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  Trawa.cpp
+  Wilcza_Jagoda.cpp
+  Wilk.cpp
+  Zolw.cpp
+  Zwierze.cpp
+  Generowanie kodu...
+  PO_C.vcxproj -> C:\Users\stefa\Desktop\polibuda\sem1,2\PO\PO_C\x64\Debug\PO_C.exe
